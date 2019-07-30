@@ -1,3 +1,3 @@
 # AzureWebPage
 
-Here i am attempting to deploy an Python Script for a webpage to Azure using the Azure App Service.
+Here I linked my Github to Azure App Service and deployed this script as a web page within my Azure Subscription.
